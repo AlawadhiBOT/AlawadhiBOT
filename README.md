@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-I’m a third year computer science student at the University of Toronto.  
+I’m a fourth year computer science student at the University of Toronto.  
   
 
 <br/>  
@@ -25,7 +25,7 @@ I’m a third year computer science student at the University of Toronto.
 
 
 ### What I'm learning when I'm free from my game  
-OS systems  
+Reverse engineering some keyboard software.
   
 
 <br/>  
