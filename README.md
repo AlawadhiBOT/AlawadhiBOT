@@ -15,14 +15,6 @@ I’m a fourth year computer science student at the University of Toronto.
 <br/>  
 
 
-## Rapidfire  
-
-
-### What I'm having fun with  
-🔭 I’m currently working on [PyDew Cat Valley](https://github.com/AlawadhiBOT/pydew-cat-valley)  
-  
-
-
 
 ### What I'm learning when I'm free from my game  
 Reverse engineering some keyboard software.
